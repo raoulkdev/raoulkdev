@@ -5,9 +5,8 @@
 - 💬 Ask me about **Unreal Engine and Unity, I am proficient in both**
 - 📫 How to reach me **raouldev@outlook.com**
 - ⚡ Fun fact **I started learning how to program at 11 years old**
-
-### Languages and Tools:
 <!--
+### Languages and Tools:
 - <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" width="20" height="20" /> **Blender**
 - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="20" height="20" /> **C**
 - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="20" height="20" /> **C++**
