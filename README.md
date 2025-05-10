@@ -7,11 +7,11 @@
 - ⚡ Fun fact **I started learning how to program at 11 years old**
 
 ### Languages and Tools:
-
+<!--
 - <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" width="20" height="20" /> **Blender**
 - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="20" height="20" /> **C**
 - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="20" height="20" /> **C++**
 - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="20" height="20" /> **C#**
 - <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="20" height="20" /> **Git**
 - <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" width="20" height="20" /> **Unity**
-- <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" width="20" height="20" /> **Unreal Engine**
+- <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" width="20" height="20" /> **Unreal Engine** -->
