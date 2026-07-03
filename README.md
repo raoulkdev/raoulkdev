@@ -1,24 +1,47 @@
-<h1 align="left">I'm Raoul Kaleba</h1>
-<h3 align="left">High school developer passionate about Rust and systems programming. Building fast, reliable backends with Axum, exploring distributed systems, and developing AI services with Rust and Python. Pursuing careers in AI engineering and aviation.</h3>
+<h1 align="center">Hi 👋 I'm Raoul Kaleba</h1>
 
-
-- I’m currently learning **Rust, Python, AI Engineering, Distributed Systems**
-
-- All of my projects are available at [Raoul Kaleba - Portfolio](https://app.notion.com/p/Raoul-Kaleba-Portfolio-ff89feded8718369beaa01349dc31df9?source=copy_link)
-
-- I regularly write articles on [https://raoulkdev.medium.com](https://raoulkdev.medium.com)
-
-- Ask me about **Rust, Axum, Python**
-
-- How to reach me **raouldev@outlook.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/raoul-kaleba" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="raoul-kaleba" height="30" width="40" /></a>
-<a href="https://medium.com/@raoulkdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@raoulkdev" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/raoulkdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="raoulkdev" height="30" width="40" /></a>
+<p align="center">
+High school developer passionate about Rust, systems programming, and AI.<br />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg" alt="rust" width="40" height="40"/> </a> </p>
+## About Me
 
+I'm a high school developer focused on building fast, reliable software with **Rust** and **Python**. I enjoy designing backend services, experimenting with distributed systems, and learning how AI can be applied to real-world problems.
+
+My goal is to combine strong systems engineering with AI to build software that's both efficient and impactful.
+
+## What I'm Learning
+
+I'm currently expanding my knowledge in:
+
+- 🦀 Rust
+- 🤖 AI Engineering
+- 🌐 Distributed Systems
+- 🐍 Python
+- ☁️ Backend Infrastructure
+
+## Featured Projects
+
+You can explore my projects and experiments here:
+
+📂 **Portfolio:**  https://app.notion.com/p/Raoul-Kaleba-Portfolio-ff89feded8718369beaa01349dc31df9?source=copy_link
+
+## Writing
+
+I enjoy sharing what I learn through technical articles.
+
+📝 **Medium:**  https://raoulkdev.medium.com
+
+## Tech Stack
+
+- **Languages:** Rust, Python, C++
+- **Backend:** Axum
+- **Databases:** PostgreSQL
+- **Tools:** Docker, Git, Linux
+
+## Connect
+
+- 💼 LinkedIn: https://linkedin.com/in/raoul-kaleba
+- 📝 Medium: https://raoulkdev.medium.com
+- 💻 LeetCode: https://leetcode.com/raoulkdev
+- 📫 Email: raouldev@outlook.com
