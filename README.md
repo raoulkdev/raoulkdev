@@ -6,7 +6,7 @@ High school developer passionate about Rust, systems programming, and AI.<br />
 
 ## About Me
 
-I'm a high school developer focused on building fast, reliable software with **Rust** and **Python**. I enjoy designing backend services, experimenting with distributed systems, and learning how AI can be applied to real-world problems.
+I'm a high school developer focused on building fast, reliable software. I enjoy designing backend services, experimenting with distributed systems, and learning how AI can be applied to real-world problems.
 
 My goal is to combine strong systems engineering with AI to build software that's both efficient and impactful.
 
