@@ -1,47 +1,25 @@
 <h1 align="center">Hi 👋 I'm Raoul Kaleba</h1>
 
 <p align="center">
-High school developer passionate about Rust, systems programming, and AI.<br />
+High school developer passionate about C/C++, Rust, embedded systems, and avionics. I'm focused on building fast and safety-critical software<br />
 </p>
 
-## About Me
-
-I'm a high school developer focused on building fast, reliable software. I enjoy designing backend services, experimenting with distributed systems, and learning how AI can be applied to real-world problems.
-
-My goal is to combine strong systems engineering with AI to build software that's both efficient and impactful.
-
 ## What I'm Learning
-
-I'm currently expanding my knowledge in:
-
-- 🦀 Rust
-- 🤖 AI Engineering
-- 🌐 Distributed Systems
-- 🐍 Python
-- ☁️ Backend Infrastructure
-
-## Featured Projects
-
-You can explore my projects and experiments here:
-
-📂 **Portfolio:**  https://app.notion.com/p/Raoul-Kaleba-Portfolio-ff89feded8718369beaa01349dc31df9?source=copy_link
-
-## Writing
-
-I enjoy sharing what I learn through technical articles.
-
-📝 **Medium:**  https://raoulkdev.medium.com
+- Electronics
+- C/C++
+- STM32
+- Rust
+- Avionics & Flight Systems
+- Real-Time Computing
 
 ## Tech Stack
 
-- **Languages:** Rust, Python, C++
-- **Backend:** Axum
-- **Databases:** PostgreSQL
-- **Tools:** Docker, Git, Linux
+- **Languages:** Rust, C/C++, Python
+- **Systems:** Linux, Embedded Systems
+- **Tools:** Git, Docker, Make/CMake,
 
 ## Connect
 
-- 💼 LinkedIn: https://linkedin.com/in/raoul-kaleba
-- 📝 Medium: https://raoulkdev.medium.com
-- 💻 LeetCode: https://leetcode.com/raoulkdev
-- 📫 Email: raouldev@outlook.com
+- LinkedIn: https://linkedin.com/in/raoul-kaleba
+- Medium: https://raoulkdev.medium.com
+- Email: raouldev@outlook.com
