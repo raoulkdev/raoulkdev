@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋 I'm Raoul Kaleba</h1>
 
 <p align="center">
-High school developer passionate about C/C++, Rust, embedded systems, and avionics. I'm focused on building fast and safety-critical software<br />
+High school developer passionate about C/C++, Rust, and embedded systems. I'm focused on building fast and safety-critical software<br />
 </p>
 
 ## What I'm Learning
@@ -9,7 +9,6 @@ High school developer passionate about C/C++, Rust, embedded systems, and avioni
 - C/C++
 - STM32
 - Rust
-- Avionics & Flight Systems
 - Real-Time Computing
 
 ## Tech Stack
